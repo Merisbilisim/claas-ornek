@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\bin\Debug\claas1-ornek.exe.config
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\bin\Debug\claas1-ornek.exe
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\bin\Debug\claas1-ornek.pdb
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1_ornek.Form1.resources
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.exe
+C:\Users\User\source\repos\claas1-ornek\claas1-ornek\obj\Debug\claas1-ornek.pdb
